@@ -1,0 +1,5 @@
+name = input()
+surname = input()
+age = str(input())
+city = input()
+print("You are " + name + " " + surname + ", a " + age + "-years old person from " + city + ".")
